@@ -37,7 +37,7 @@ Type in these commands:
 
 `lunch aosp_<DEVICE>-userdebug`
 
-`make -j#` (# being the number of logical cores on the device)
+`make -j#` (# being the number of logical cores on your computer)
 
 The build will start
 
